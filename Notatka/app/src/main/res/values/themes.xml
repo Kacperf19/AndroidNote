@@ -1,11 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Notatka" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Notatnik" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/red</item> -->
-        <item name="colorPrimaryVariant">@color/red</item> -
-        <item name="android:statusBarColor">@color/red</item> -
+         <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="android:statusBarColor">@color/red</item>
     </style>
 
-    <style name="Theme.Notatka" parent="Base.Theme.Notatka" />
+    <style name="Theme.Notatnik" parent="Base.Theme.Notatnik" />
 </resources>
